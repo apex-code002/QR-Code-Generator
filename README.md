@@ -1,6 +1,6 @@
 # QR-Code-Generator
  About the Advanced Custom QR Code Generator
-💡 Purpose
+ Purpose
 
 This tool allows users to create and customize QR codes for:
 
@@ -16,9 +16,9 @@ SMS messages
 
 It includes live customization, color controls, and QR code downloading.
 
-⚙️ Key Features
+ Key Features
 
-✅ Multi-Type QR Codes
+ Multi-Type QR Codes
 
 URL/Text: Create QR codes for any link or plain text.
 
@@ -28,19 +28,19 @@ Email: Supports recipient, subject, and body fields.
 
 SMS: Encodes phone number and message.
 
-✅ Customization Options
+ Customization Options
 
 Choose foreground and background colors with real-time updates.
 
 Automatically re-generates when colors or inputs change.
 
-✅ Download Support
+ Download Support
 
 The generated QR can be downloaded as a PNG image file.
 
 File name auto-includes the QR type and timestamp.
 
-✅ Interactive UI
+ Interactive UI
 
 Clean, card-based layout with soft shadows and rounded corners.
 
@@ -48,11 +48,11 @@ Smooth animations for appearing/disappearing QR area.
 
 Shake effect when input is invalid.
 
-✅ Responsive Design
+ Responsive Design
 
 Adjusts layout for mobile screens (below 480px width).
 
-🧩 Technology Stack
+ Technology Stack
 
 HTML5 → structure
 
@@ -62,7 +62,7 @@ JavaScript (Vanilla) → logic and interactivity
 
 qrcode.js (CDN) → QR code generation
 
-🎨 Design Highlights
+ Design Highlights
 
 Modern Poppins font
 
