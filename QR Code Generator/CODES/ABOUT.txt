@@ -1,5 +1,5 @@
 About the Advanced Custom QR Code Generator
-💡 Purpose
+ Purpose
 
 This tool allows users to create and customize QR codes for:
 
@@ -61,7 +61,7 @@ JavaScript (Vanilla) → logic and interactivity
 
 qrcode.js (CDN) → QR code generation
 
-🎨 Design Highlights
+ Design Highlights
 
 Modern Poppins font
 
